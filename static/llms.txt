@@ -1,30 +1,72 @@
 # 管理者的十六字心法
-# 每一个管理者，迟早都会撞上同一堵墙。
+# 三千年试错，凝于十六字
 # 自动生成于 book_to_site skill
 
 > 站点首页：https://jeekeagle.github.io/test-deploy/
 > 共 22 章，按 6 编组织。
 
-## 引言- 引言：https://jeekeagle.github.io/test-deploy/intro/intro
-## 第一编 · 管理者的两难- 引言：管理者的两难：https://jeekeagle.github.io/test-deploy/part-1/chapter-1
+
+## 引言
+
+- 引言：https://jeekeagle.github.io/test-deploy/intro/intro
+
+
+## 第一编 · 管理者的两难
+
+- 引言：管理者的两难：https://jeekeagle.github.io/test-deploy/part-1/chapter-1
+
 - 人心不可靠，这不是悲观，是起点：https://jeekeagle.github.io/test-deploy/part-1/chapter-2
+
 - 礼制：文化编织的弥天大网：https://jeekeagle.github.io/test-deploy/part-1/chapter-3
+
 - 法统：当礼制网不住变了的人心：https://jeekeagle.github.io/test-deploy/part-1/chapter-4
-## 第二编 · 一抔干沙：没有内在凝聚力的组织长什么样- 一抔干沙：没有内在凝聚力的组织长什么样：https://jeekeagle.github.io/test-deploy/part-2/chapter-1
+
+
+## 第二编 · 一抔干沙：没有内在凝聚力的组织长什么样
+
+- 一抔干沙：没有内在凝聚力的组织长什么样：https://jeekeagle.github.io/test-deploy/part-2/chapter-1
+
 - 僵化的礼：楚国为什么分庭抗礼：https://jeekeagle.github.io/test-deploy/part-2/chapter-2
+
 - 脱离现实的道德：宋襄公的空心萝卜：https://jeekeagle.github.io/test-deploy/part-2/chapter-3
+
 - 现代映射：企业文化变成口号的那一刻：https://jeekeagle.github.io/test-deploy/part-2/chapter-4
-## 第三编 · 秦亡五因：只靠法统为什么撑不住- 秦亡五因：只靠法统为什么撑不住：https://jeekeagle.github.io/test-deploy/part-3/chapter-1
+
+
+## 第三编 · 秦亡五因：只靠法统为什么撑不住
+
+- 秦亡五因：只靠法统为什么撑不住：https://jeekeagle.github.io/test-deploy/part-3/chapter-1
+
 - 人心不服：没有认同的服从有多脆弱：https://jeekeagle.github.io/test-deploy/part-3/chapter-2
+
 - 现代映射：KPI驱动下的组织溃散：https://jeekeagle.github.io/test-deploy/part-3/chapter-3
+
 - 秦塑形、汉塑魂：组织建设的两个维度：https://jeekeagle.github.io/test-deploy/part-3/chapter-4
-## 第四编 · 黄老之治与民休息：给组织喘息的空间- 黄老之治与民休息：给组织喘息的空间：https://jeekeagle.github.io/test-deploy/part-4/chapter-1
+
+
+## 第四编 · 黄老之治与民休息：给组织喘息的空间
+
+- 黄老之治与民休息：给组织喘息的空间：https://jeekeagle.github.io/test-deploy/part-4/chapter-1
+
 - 董仲舒的方案：解决合法性问题：https://jeekeagle.github.io/test-deploy/part-4/chapter-2
+
 - 现代映射：文化认同与制度约束的双管齐下：https://jeekeagle.github.io/test-deploy/part-4/chapter-3
+
 - 为什么只走一条路必死：https://jeekeagle.github.io/test-deploy/part-4/chapter-4
-## 第五编 · 被污名化的务实者：李斯的贡献清单- 被污名化的务实者：李斯的贡献清单：https://jeekeagle.github.io/test-deploy/part-5/chapter-1
+
+
+## 第五编 · 被污名化的务实者：李斯的贡献清单
+
+- 被污名化的务实者：李斯的贡献清单：https://jeekeagle.github.io/test-deploy/part-5/chapter-1
+
 - 现代映射——偏了不知道的组织长什么样：https://jeekeagle.github.io/test-deploy/part-5/chapter-2
+
 - 动态校准的实践——允执厥中怎么做：https://jeekeagle.github.io/test-deploy/part-5/chapter-3
+
 - 管理者的十六字心法：https://jeekeagle.github.io/test-deploy/part-5/chapter-4
+
 - 番外：智能时代——人心惟危会过时吗？：https://jeekeagle.github.io/test-deploy/part-5/chapter-5
+
 - 后记：回望——三千年试错留下的不是答案，是方法：https://jeekeagle.github.io/test-deploy/part-5/chapter-6
+
+
