@@ -1,0 +1,45 @@
+/* ====================================================================
+ * 《管理者的十六字心法》 主题
+ * 主题: 典籍古韵 (Classics)
+ * 描述: 国学/古籍/哲学/历史——深蓝主色 + 暗金副 + 朱砂红强调，霞鹜文楷衬线
+ * ==================================================================== */
+
+@import url('https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.7.0/style.css');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap');
+
+:root {
+  --ifm-color-primary: #1f4e79;
+  --ifm-color-primary-dark: #1a4266;
+  --ifm-color-primary-darker: #173a5a;
+  --ifm-color-primary-darkest: #122e48;
+  --ifm-color-primary-light: #40688d;
+  --ifm-color-primary-lighter: #577a9a;
+  --ifm-color-primary-lightest: #7894ae;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --theme-accent: #b1391d;
+  --theme-accent-soft: rgba(177, 57, 29, 0.15);
+
+  /* 字体栈 */
+  --ifm-font-family-base:
+    'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif,
+    'LXGW WenKai Screen', 'LXGW WenKai', '霞鹜文楷', 'Noto Serif SC', 'Source Han Serif SC';
+  --ifm-heading-font-family:
+    'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif,
+    'LXGW WenKai Screen', 'LXGW WenKai', '霞鹜文楷', 'Noto Serif SC', 'Source Han Serif SC';
+  --ifm-font-family-monospace:
+    'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #c89732;
+  --ifm-color-primary-dark: #aa802a;
+  --ifm-color-primary-darker: #967125;
+  --ifm-color-primary-darkest: #785a1e;
+  --ifm-color-primary-light: #d0a650;
+  --ifm-color-primary-lighter: #d5b165;
+  --ifm-color-primary-lightest: #dec084;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --theme-accent: #d96b4a;
+  --theme-accent-soft: rgba(217, 107, 74, 0.15);
+}
