@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: '管理者的十六字心法',
-  tagline: '每一个管理者，迟早都会撞上同一堵墙。',
+  tagline: '三千年试错，凝于十六字',
   favicon: 'img/favicon.svg',
 
   future: {v4: true},
@@ -47,7 +47,9 @@ const config: Config = {
       items: [
         {to: '/', label: '首页', position: 'left'},
         {to: '/intro/intro', label: '开始阅读', position: 'left'},
+
         {to: '/part-5/chapter-4', label: '管理者的十六', position: 'left'},
+
         {href: 'https://github.com/jeekeagle/test-deploy', label: 'GitHub', position: 'right'},
       ],
     },
@@ -58,12 +60,19 @@ const config: Config = {
           title: '本书',
           items: [
             {label: '引言', to: '/intro/intro'},
+
             {label: '引言', to: '/intro/intro'},
+
             {label: '第一编 · 管理者的两难', to: '/part-1/chapter-1'},
+
             {label: '第二编 · 一抔干沙：没有内在凝聚力的组织长什么样', to: '/part-2/chapter-1'},
+
             {label: '第三编 · 秦亡五因：只靠法统为什么撑不住', to: '/part-3/chapter-1'},
+
             {label: '第四编 · 黄老之治与民休息：给组织喘息的空间', to: '/part-4/chapter-1'},
+
             {label: '第五编 · 被污名化的务实者：李斯的贡献清单', to: '/part-5/chapter-1'},
+
           ],
         },
         {
